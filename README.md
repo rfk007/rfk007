@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm currently learning C++ and to develop audio plug-ins.
+I'm currently learning some new stuff (like RUST and DSP) and would like to develop audio plug-ins.
 
 <!--
 **rfk007/rfk007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
